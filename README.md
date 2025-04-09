@@ -22,6 +22,9 @@
 * 前端地址：http://localhost:8080
 
 * 后端地址：http://localhost:8080/manage/user/login
+* 编译遇到问题解决步骤：
+1.需修改pom.xml文件的软件依赖版本；
+2.需要指定本地数据库登录信息：src/main/resources中修改conf.properties
 
 ## 图片示例
 
